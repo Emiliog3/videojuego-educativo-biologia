@@ -1,0 +1,36 @@
+# Game Design Document - Videojuego Educativo de Biología
+
+## Nombre del Juego:
+Biomundos: Aventuras en la Naturaleza
+
+## Materia:
+Biología
+
+## Escenario:
+Un mundo virtual con diferentes ecosistemas como bosques, océanos y desiertos donde los jugadores explorarán la biodiversidad.
+
+## Protagonista:
+Niko, un niño aventurero con curiosidad por la ciencia. Tiene una lupa mágica que le permite analizar organismos en detalle.
+
+## Objetivo Principal:
+Ayudar a Niko a resolver desafíos ecológicos y aprender sobre la naturaleza para salvar el equilibrio de los ecosistemas.
+
+## Mecánicas del Juego:
+- El jugador podrá recolectar muestras de ADN de organismos con su lupa mágica.
+- Para avanzar deberá resolver acertijos biológicos sobre los ecosistemas y sus cadenas alimenticias.
+- Los desafíos incluirán experimentos interactivos y la identificación de especies en peligro.
+
+## Sistema de Avance:
+- Los estudiantes avanzarán mediante un sistema de niveles basado en la exploración de distintos hábitats.
+- Cada nivel representa un concepto educativo de biología (ciclo del agua, fotosíntesis, biodiversidad).
+- Los jugadores recibirán retroalimentación inmediata sobre su desempeño y recompensas por responder correctamente.
+
+## Aprendizaje:
+- Los jugadores aprenderán sobre **adaptaciones de los animales** mediante **misiones interactivas**.
+- Se reforzará el **ciclo de vida de los organismos** a través de **desafíos de supervivencia**.
+- Las evaluaciones se realizarán mediante **pruebas tipo quiz y experimentos simulados**, permitiendo a los profesores y estudiantes medir el progreso.
+
+## Tecnología y Plataforma:
+- El juego se desarrollará usando **Unity y C#**.
+- Soporte para **PC y Web**.
+- Se implementarán características como **modo multijugador, simulaciones interactivas y logros** para garantizar una experiencia de juego fluida y atractiva.
